@@ -1,2 +1,1 @@
-# my_makup
- يعد هذا المشروع متجرًا إلكترونيًا متخصصًا في بيع مستحضرات التجميل والمكياج، تم تطويره باستخدام PHP و MySQL مع واجهة تعتمد على HTML وCSS وJavaScript . يتيح الموقع للمستخدمين تصفح المنتجات، والبحث عنها، ومتابعة، وكامل عمليات الشراء عبر نظام دفع المنتجات. كما يحتوي على لوحة تحكم لإدارة المنتجات والابتكارات، والطلبات، والمستخدمين
+ This project is an online store specializing in selling cosmetics and makeup. It was developed using PHP and MySQL with an interface based on HTML, CSS, and JavaScript. The site allows users to browse, search, and track products, and complete purchases via a product payment system. It also includes a control panel for managing products, innovations, orders, and users.
